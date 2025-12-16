@@ -40,6 +40,20 @@ An AI-powered tool to generate realistic synthetic student data using OpenAI GPT
 - "Engineering students with internships"
 - "Freshman students enrolled in 2024"
 
+## 📸 Screenshots
+
+### Using OpenAI (GPT-4o-mini)
+![OpenAI Output](images/openai_output.png)
+*Faster generation with OpenAI API - checkbox checked*
+
+### Using Hugging Face (Llama 3.2)
+![Hugging Face Output](images/huggingface_output.png)
+*Free local generation with Hugging Face model - checkbox unchecked*
+
+### Interface Overview
+![Interface Overview](images/interface_overview.png)
+*Interactive Gradio interface with example prompts*
+
 ## 📊 Generated Data Fields
 
 Each student record includes:
