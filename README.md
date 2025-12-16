@@ -43,15 +43,15 @@ An AI-powered tool to generate realistic synthetic student data using OpenAI GPT
 ## 📸 Screenshots
 
 ### Using OpenAI (GPT-4o-mini)
-![OpenAI Output](images/openai_output.png)
+![OpenAI Output](images/image1.png)
 *Faster generation with OpenAI API - checkbox checked*
 
 ### Using Hugging Face (Llama 3.2)
-![Hugging Face Output](images/huggingface_output.png)
+![Hugging Face Output](images/image2.png)
 *Free local generation with Hugging Face model - checkbox unchecked*
 
 ### Interface Overview
-![Interface Overview](images/interface_overview.png)
+![Interface Overview](images/image3.png)
 *Interactive Gradio interface with example prompts*
 
 ## 📊 Generated Data Fields
